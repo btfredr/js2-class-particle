@@ -1,0 +1,10 @@
+.particle {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+body {
+    background-color: darkblue;
+    color: white;
+}
